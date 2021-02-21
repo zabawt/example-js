@@ -1,4 +1,5 @@
 {
 	"welcome" : "Welcome text",
-	"title" : "Next.js example"
+	"title" : "Next.js example",
+	"description" : "some description"
 }
